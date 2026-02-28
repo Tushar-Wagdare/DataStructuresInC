@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+/.vs
+/DSA/.vs/DSA.slnx
+/DSA/Core/Core.vcxproj.user
